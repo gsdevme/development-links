@@ -5,6 +5,7 @@
 
 ## devops
 [SSL Cert Chains](https://whatsmychaincert.com/?gant.se)
+[Good Chef Project Template](https://github.com/tknerr/sample-toplevel-cookbook)
 
 ## Cent Base Boxes
 https://github.com/ckan/ckan/wiki/How-to-Create-a-CentOS-Vagrant-Base-Box
